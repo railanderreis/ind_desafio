@@ -1,7 +1,3 @@
----
-typora-copy-images-to: image
----
-
 **Desafio de processo seletivo**
 
 Desenvolvido um ETL utilizando as ferramentas abaixo:
@@ -23,6 +19,6 @@ Realizar as consultas:
 
 Telas.
 
-![flows](image\flows.PNG)
+![flows](.\image\flows.PNG)
 
-![over](image\over.PNG)
+![over](.\image\over.PNG)
