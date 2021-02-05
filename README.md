@@ -19,6 +19,6 @@ Realizar as consultas:
 
 Telas.
 
-![flows](.\image\flows.PNG)
+![flows](https://raw.githubusercontent.com/railanderreis/ind_desafio/master/image/flows.PNG)
 
-![over](.\image\over.PNG)
+![over](https://raw.githubusercontent.com/railanderreis/ind_desafio/master/image/over.PNG)
